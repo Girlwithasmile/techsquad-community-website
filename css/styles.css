@@ -270,8 +270,11 @@ body.loaded > div.preloader {
 @media (max-width: 500px) {
     .col-lg-2 col-6 col-sm-4 mb-5 mb-lg-0 {
         display: grid;
-        grid-gap: 20px;
+        grid-gap: 9px;
         grid-template-columns: repeat(2, 1fr);
         text-align: center;
 	padding-left: 6px;
     }
+    .footer pt-lg-7 footer-dark bg-dark {
+	display : flex;
+	padding-left : 7px;
