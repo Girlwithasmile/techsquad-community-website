@@ -278,3 +278,8 @@ body.loaded > div.preloader {
     .footer pt-lg-7 footer-dark bg-dark {
 	display : flex;
 	padding-left : 7px;
+	}
+	
+     .container pt-4{
+	 grid-gap : 9px;
+   }
