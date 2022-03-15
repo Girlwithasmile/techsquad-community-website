@@ -274,6 +274,7 @@ body.loaded > div.preloader {
         grid-template-columns: repeat(2, 1fr);
         text-align: center;
 	padding-left: 6px;
+	align-items: center;
     }
     .footer pt-lg-7 footer-dark bg-dark {
 	display : flex;
@@ -282,4 +283,5 @@ body.loaded > div.preloader {
 	
      .container pt-4{
 	 grid-gap : 9px;
+	 align-items: center;
    }
